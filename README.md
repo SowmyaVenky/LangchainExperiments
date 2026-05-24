@@ -15,3 +15,6 @@ granite4.1:3b     6fd349357287    2.1 GB    39 minutes ago
 tinyllama:1.1b    2644915ede35    637 MB    3 hours ago
 gemma4:latest     c6eb396dbd59    9.6 GB    22 hours ago
 </code>
+
+Other code links 
+https://github.com/krishnaik06/Langchain-V1-Crash-Course
