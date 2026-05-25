@@ -6,3 +6,9 @@ python-dotenv
 langchain-google-genai
 ollama
 langchain_ollama
+langgraph
+langgraph-checkpoint
+pypdf
+langchain-text-splitters
+chromadb
+langchain_chroma
