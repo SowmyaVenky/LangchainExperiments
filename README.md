@@ -18,3 +18,9 @@ gemma4:latest     c6eb396dbd59    9.6 GB    22 hours ago
 
 Other code links 
 https://github.com/krishnaik06/Langchain-V1-Crash-Course
+
+
+### Run the streamlit application to show a chatbot UI
+<code>
+(.venv) PS C:\Venky\LangchainExperiments\01-RAGTesting> streamlit run .\app.py
+</code>
