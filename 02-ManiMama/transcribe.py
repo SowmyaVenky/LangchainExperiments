@@ -2,6 +2,9 @@ import os
 import whisper
 from datetime import timedelta
 
+import torch
+print(torch.cuda.is_available())
+
 def transcribe_with_minute_timestamps(video_path: str, transcript_path: str, model_size: str = "base"):
     if not os.path.exists(video_path):
         print(f"File not found: {video_path}")
@@ -52,7 +55,7 @@ def print_minute_block(minute, transcript_list, text_file):
 
 if __name__ == "__main__":
     # Replace with the path to your local MP4 file
-    video_file = r"C:\Venky\LangchainExperiments\02-ManiMama\videos\006.mp4" 
-    transcript_path = r"C:\Venky\LangchainExperiments\02-ManiMama\videos\006.txt"
+    video_file = r"C:\Venky\LangchainExperiments\02-ManiMama\videos\008.mp4" 
+    transcript_path = r"C:\Venky\LangchainExperiments\02-ManiMama\videos\008.txt"
     
     transcribe_with_minute_timestamps(video_file, transcript_path, model_size="medium")
