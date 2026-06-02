@@ -10,16 +10,37 @@ collection = chroma_client.get_or_create_collection(name="mani_mama_collection")
 # metadata_tags_to_apply = {'chapter_and_slokas': 'Introduction and Dhyana Slokas 1 to 3', 'chapter': 'Introduction and Dhyana Slokas' }
 # metadata_tags_to_apply = {'chapter_and_slokas': 'Introduction and Dhyana Slokas 4 to 8', 'chapter': 'Introduction and Dhyana Slokas' }
 # metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-01-Slokas-1-to-23', 'chapter': 'Chapter-01' }
-metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-01-Slokas-24-to-42', 'chapter': 'Chapter-01' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-01-Slokas-24-to-42', 'chapter': 'Chapter-01' }
 # metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-01-sloka-43-to-47', 'chapter': 'Chapter-01' }
 # metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-02-slokas-12-to-17', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-02-Slokas 18 to 22', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-02-Slokas 22 to 31', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-02-Slokas 31 to 41', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter-02-Slokas 42 to 47', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter 02 Slokas 48 to 52', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter 02 Slokas 53 to 55', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter 02 Slokas 56 to 60', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter 02 Slokas 61 to 66', 'chapter': 'Chapter-02' }
+# metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter 02 Slokas 67 to 72', 'chapter': 'Chapter-02' }
+metadata_tags_to_apply = {'chapter_and_slokas': 'Chapter 02 Summary', 'chapter': 'Chapter-02' }
+
 
 # transcript_file = 'videos/001.txt'
 # transcript_file = 'videos/002.txt'
 # transcript_file = 'videos/003.txt'
-transcript_file = 'videos/004.txt'
+# transcript_file = 'videos/004.txt'
 # transcript_file = 'videos/005.txt'
 # transcript_file = 'videos/006.txt'
+# transcript_file = 'videos/007.txt'
+# transcript_file = 'videos/008.txt'
+# transcript_file = 'videos/009.txt'
+# transcript_file = 'videos/010.txt'
+# transcript_file = 'videos/011.txt'
+# transcript_file = 'videos/012.txt'
+# transcript_file = 'videos/013.txt'
+# transcript_file = 'videos/014.txt'
+# transcript_file = 'videos/015.txt'
+transcript_file = 'videos/016.txt'
 
 # Open the file safely
 with open(transcript_file, 'r', encoding='utf-8') as file:
