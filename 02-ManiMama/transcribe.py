@@ -13,7 +13,7 @@ def transcribe_with_minute_timestamps(video_path: str, transcript_path: str, mod
 
     # Transcribe the MP4 file
     print("Transcribing video... this may take a while.")
-    result = model.transcribe(video_path, verbose=False)
+    result = model.transcribe(video_path, verbose=False, language="en")
     
     segments = result.get("segments", [])
     
@@ -52,7 +52,7 @@ def print_minute_block(minute, transcript_list, text_file):
 
 if __name__ == "__main__":
     # Replace with the path to your local MP4 file
-    video_file = r"C:\Venky\LangchainExperiments\02-ManiMama\videos\006.mp4" 
-    transcript_path = r"C:\Venky\LangchainExperiments\02-ManiMama\videos\006.txt"
+    video_file = r"C:\Venky\LangchainExperiments\02-ManiMama\videos\007.mp4" 
+    transcript_path = r"C:\Venky\LangchainExperiments\02-ManiMama\videos\007.txt"
     
     transcribe_with_minute_timestamps(video_file, transcript_path, model_size="medium")
