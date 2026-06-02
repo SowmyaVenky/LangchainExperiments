@@ -7,7 +7,7 @@ chroma_client = chromadb.PersistentClient(path=DB_DIR)
 collection = chroma_client.get_or_create_collection(name="mani_mama_collection")
 
 results = collection.get(
-   where={'chapter': {"$eq": "Chapter-02"}}
+   # where={'chapter': {"$eq": "Chapter-02"}}
 )
 
 print(len(results['ids']))
