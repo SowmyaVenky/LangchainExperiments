@@ -16,7 +16,7 @@ def transcribe_with_minute_timestamps(video_path: str, transcript_path: str, mod
 
     # Transcribe the MP4 file
     print("Transcribing video... this may take a while.")
-    result = model.transcribe(video_path, verbose=False)
+    result = model.transcribe(video_path, verbose=False, language="en")
     
     segments = result.get("segments", [])
     
