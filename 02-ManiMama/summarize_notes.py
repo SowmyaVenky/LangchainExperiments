@@ -1,8 +1,8 @@
 import ollama
 
-video_link = 'https://youtu.be/2RAFDnej5SM&t='
-transcript_file = 'videos/004.txt'
-transcript_summary_file = 'videos/004_Summary.md'
+video_link = 'https://youtu.be/G1UwpSVGQo0&t='
+transcript_file = 'videos/016.txt'
+transcript_summary_file = 'videos/016_Summary.md'
 
 transcript_summary_file = open(transcript_summary_file, "w", encoding="utf-8") 
 
