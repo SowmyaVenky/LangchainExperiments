@@ -27,13 +27,16 @@ for atoken in tokens:
         
         #Chunk every 10 records. 
         if record_counter % 10 == 0:
+          print("Summarizing text of length : " + str(len(content_to_summarize)))
           my_prompt = f'This is a personal note, what is it about? {content_to_summarize}'
           response = ollama.generate(model='granite4.1:3b', prompt=my_prompt)
           actual_response = response['response']
           transcript_summary_file.write("<br /><br />")
           transcript_summary_file.write(video_link + str(record_counter-10) + "m<br />")
-          transcript_summary_file.write(actual_response + "<br />") 
-          content_to_summarize = ""       
+          transcript_summary_file.write(actual_response + "<br />")
+          # Trying to summarize entire passes of bigger size as we go.
+          # The final summary then would encapsulate the entire document. 
+          # content_to_summarize = ""       
           document_ids_summarized = ""    
         else:
             content_to_summarize += "\n".join(content_from_this_minute)
