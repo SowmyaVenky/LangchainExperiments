@@ -30,14 +30,14 @@ for atoken in tokens:
           my_prompt = f'This is a personal note, what is it about? {content_to_summarize}'
           response = ollama.generate(model='granite4.1:3b', prompt=my_prompt)
           actual_response = response['response']
-          transcript_summary_file.write(document_ids_summarized + "\n")
-          transcript_summary_file.write(video_link + str(record_counter) + "m\n")
-          transcript_summary_file.write(actual_response + "\n") 
+          transcript_summary_file.write(document_ids_summarized + "<br />")
+          transcript_summary_file.write(video_link + str(record_counter-10) + "m<br />")
+          transcript_summary_file.write(actual_response + "<br />") 
           content_to_summarize = ""       
           document_ids_summarized = ""    
         else:
             content_to_summarize += "\n".join(content_from_this_minute)
-            document_ids_summarized = document_ids_summarized + "\n" + doc_id
+            document_ids_summarized = document_ids_summarized + "<br />" + doc_id
 
 
 #Final Chunk
@@ -45,9 +45,9 @@ if len(content_to_summarize) > 0:
   my_prompt = f'This is a personal note, what is it about? {content_to_summarize}'
   response = ollama.generate(model='granite4.1:3b', prompt=my_prompt)
   actual_response = response['response']
-  transcript_summary_file.write(document_ids_summarized + "\n")
-  transcript_summary_file.write(video_link + str(record_counter) + "m")
-  transcript_summary_file.write(actual_response + "\n") 
+  transcript_summary_file.write(document_ids_summarized + "<br />")
+  transcript_summary_file.write(video_link + str(record_counter-10) + "m")
+  transcript_summary_file.write(actual_response + "<br />") 
   
 transcript_summary_file.flush()
 transcript_summary_file.close()
