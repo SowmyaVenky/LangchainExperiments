@@ -30,7 +30,7 @@ for atoken in tokens:
           my_prompt = f'This is a personal note, what is it about? {content_to_summarize}'
           response = ollama.generate(model='granite4.1:3b', prompt=my_prompt)
           actual_response = response['response']
-          transcript_summary_file.write(document_ids_summarized + "<br />")
+          # transcript_summary_file.write(document_ids_summarized + "<br />")
           transcript_summary_file.write(video_link + str(record_counter-10) + "m<br />")
           transcript_summary_file.write(actual_response + "<br />") 
           content_to_summarize = ""       
@@ -45,8 +45,8 @@ if len(content_to_summarize) > 0:
   my_prompt = f'This is a personal note, what is it about? {content_to_summarize}'
   response = ollama.generate(model='granite4.1:3b', prompt=my_prompt)
   actual_response = response['response']
-  transcript_summary_file.write(document_ids_summarized + "<br />")
-  transcript_summary_file.write(video_link + str(record_counter-10) + "m")
+  # transcript_summary_file.write(document_ids_summarized + "<br />")
+  transcript_summary_file.write(video_link + str(record_counter-10) + "m<br />")
   transcript_summary_file.write(actual_response + "<br />") 
   
 transcript_summary_file.flush()
