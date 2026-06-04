@@ -29,12 +29,9 @@ The Vedas prescribe three necessary stages to prepare the mind and ultimately re
 
 | Stage | Practice | Core Benefit |
 | --- | --- | --- |
-| **1. Karma Yoga** | Performing worldly and scriptural duties without selfish desire (*Nishkama Karma*).|
-| **Chitta Shuddhi:** Cleanses the mind of attachments and impurities. |
-| **2. Upasana** | Engaging in selfless meditation on divine forms or principles.|
-| **Chitta Naishchalya:** Fixes the mind and creates mental steadiness.|
-| **3. Vedanta** | Studying the end portions of the Vedas after the mind is pure and steady.|
-| **Atma Gnanam:** Grants true self-knowledge and liberation from the cycle of birth and death.|
+| **1. Karma Yoga** | Performing worldly and scriptural duties without selfish desire (*Nishkama Karma*).| **Chitta Shuddhi:** Cleanses the mind of attachments and impurities. |
+| **2. Upasana** | Engaging in selfless meditation on divine forms or principles.| **Chitta Naishchalya:** Fixes the mind and creates mental steadiness.|
+| **3. Vedanta** | Studying the end portions of the Vedas after the mind is pure and steady.| **Atma Gnanam:** Grants true self-knowledge and liberation from the cycle of birth and death.|
 
 ### The Progression of Vedic Literature
 
