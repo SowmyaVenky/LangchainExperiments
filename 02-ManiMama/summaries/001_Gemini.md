@@ -94,24 +94,12 @@ The speaker explains the relationship between ancient spiritual texts and their 
 
 | Concept | Representation |
 | --- | --- |
-| **The Cow** | The Upanishads, which hold vast spiritual wisdom.
-
- |
-| **The Milkman** | Lord Krishna, the expert who knows exactly how to approach these intricate texts.
-
- |
-| **The Calf** | Arjuna, whose presence and need are required for the "cow" to yield its milk.
-
- |
-| **The Milk** | The Bhagavad Gita, which acts as a nourishing spiritual diet for eligible, noble people.
-
- |
-| **The Boatman** | Lord Krishna, who maneuvered the Pandavas across the dangerous and impossible "river" of the Mahabharata war.
-
- |
-| **The Lotus** | The Mahabharata itself, born purely from the words of Vyasa and free from any grammatical or contextual defects.
-
- |
+| **The Cow** | The Upanishads, which hold vast spiritual wisdom. |
+| **The Milkman** | Lord Krishna, the expert who knows exactly how to approach these intricate texts. |
+| **The Calf** | Arjuna, whose presence and need are required for the "cow" to yield its milk. |
+| **The Milk** | The Bhagavad Gita, which acts as a nourishing spiritual diet for eligible, noble people. |
+| **The Boatman** | Lord Krishna, who maneuvered the Pandavas across the dangerous and impossible "river" of the Mahabharata war. |
+| **The Lotus** | The Mahabharata itself, born purely from the words of Vyasa and free from any grammatical or contextual defects. |
 
 ### The Role of Lord Krishna and Vedic Preservation
 
