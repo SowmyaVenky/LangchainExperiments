@@ -168,50 +168,40 @@ Here is a detailed summary highlighting the key points:
 
 **1. The Nature of the Soul (Atma)**
 
-* 
-**All-Pervading but Manifest Locally:** The Atma is all-pervading (*sarvagataha*) and does not physically travel from place to place. Much like electricity is everywhere in a wire but only manifests when connected to a bulb, the Atma only manifests as consciousness when there is a reflecting medium, which is the subtle body (*sukshma shariram*).
+* **All-Pervading but Manifest Locally:** The Atma is all-pervading (*sarvagataha*) and does not physically travel from place to place. Much like electricity is everywhere in a wire but only manifests when connected to a bulb, the Atma only manifests as consciousness when there is a reflecting medium, which is the subtle body (*sukshma shariram*).
 
 
-* 
-**The Illusion of Travel:** When a person dies, the Atma itself does not travel; rather, the subtle body moves, carrying the "manifestation" of the Atma (*chitabhasa*) to a new physical body. This is compared to moving a mirror, which makes the reflection of the sun appear to move even though the sun itself is stationary.
+* **The Illusion of Travel:** When a person dies, the Atma itself does not travel; rather, the subtle body moves, carrying the "manifestation" of the Atma (*chitabhasa*) to a new physical body. This is compared to moving a mirror, which makes the reflection of the sun appear to move even though the sun itself is stationary.
 
 
-* 
-**Indestructible and Imperceptible:** The Atma is eternal (*nitya*) and indestructible. It cannot be cut by weapons, burned by fire, drowned by water, or dried by the wind. Furthermore, it is imperceptible to the human sense organs and cannot even be objectified or fully grasped by the mind or intellect.
+* **Indestructible and Imperceptible:** The Atma is eternal (*nitya*) and indestructible. It cannot be cut by weapons, burned by fire, drowned by water, or dried by the wind. Furthermore, it is imperceptible to the human sense organs and cannot even be objectified or fully grasped by the mind or intellect.
 
 
 
 **2. The Analogy of the Worn-Out Dress**
 
-* 
-**The Body as a Garment:** Lord Krishna compares the physical body to a piece of clothing. Just as a person discards old, worn-out clothes and puts on new ones without sadness, the consciousness discards a worn-out body to take on a fresh one.
+* **The Body as a Garment:** Lord Krishna compares the physical body to a piece of clothing. Just as a person discards old, worn-out clothes and puts on new ones without sadness, the consciousness discards a worn-out body to take on a fresh one.
 
 
-* 
-**The Definition of "Worn-Out":** A body is considered "worn out" not strictly by old age, but when it has exhausted its destined experiences (driven by *prarabdha* karma) and can no longer serve as a useful vehicle for the soul to acquire new experiences.
+* **The Definition of "Worn-Out":** A body is considered "worn out" not strictly by old age, but when it has exhausted its destined experiences (driven by *prarabdha* karma) and can no longer serve as a useful vehicle for the soul to acquire new experiences.
 
 
-* 
-**Conquering Grief:** By understanding this process, Arjuna is taught that the true essence of a person (like Bhishma) never dies. The loss of the physical body is merely a change of "dress," making grief unnecessary.
+* **Conquering Grief:** By understanding this process, Arjuna is taught that the true essence of a person (like Bhishma) never dies. The loss of the physical body is merely a change of "dress," making grief unnecessary.
 
 
 
 **3. The Inevitability of Material Change**
 
-* 
-**Consciousness vs. Matter:** The text divides reality into two categories: Spirit/Consciousness, which is entirely changeless, and Matter, which is constantly changing.
+* **Consciousness vs. Matter:** The text divides reality into two categories: Spirit/Consciousness, which is entirely changeless, and Matter, which is constantly changing.
 
 
-* 
-**The Six Stages of Material Life:** The physical body is made of matter (the five elements, or *pancha bhutas*) and is therefore subject to continuous change. Anything made of matter must go through six inevitable modifications: potential existence, birth, growth, change, decline, and finally death.
+* **The Six Stages of Material Life:** The physical body is made of matter (the five elements, or *pancha bhutas*) and is therefore subject to continuous change. Anything made of matter must go through six inevitable modifications: potential existence, birth, growth, change, decline, and finally death.
 
 
-* 
-**Acceptance of Facts:** Even from a purely materialistic standpoint, Arjuna should not grieve. It is an unchangeable law of nature that whatever is born will definitely die, and whatever dies will be born again.
+* **Acceptance of Facts:** Even from a purely materialistic standpoint, Arjuna should not grieve. It is an unchangeable law of nature that whatever is born will definitely die, and whatever dies will be born again.
 
 
-* 
-**Changing Attitude, Not Reality:** Because the cycle of birth and death cannot be stopped or remedied, worrying is futile. The text advises that one must courageously accept the unchangeable facts of life and only attempt to change one's internal attitude toward them.
+* **Changing Attitude, Not Reality:** Because the cycle of birth and death cannot be stopped or remedied, worrying is futile. The text advises that one must courageously accept the unchangeable facts of life and only attempt to change one's internal attitude toward them.
 
 ---
 
@@ -252,24 +242,19 @@ Here is a detailed summary highlighting the key points from the provided text:
 **3. The Summary of Krishna’s Five Arguments**
 
 * Krishna consolidates his reasoning into five distinct standpoints to definitively conclude that Arjuna must fight:
-1. 
-**From the standpoint of Atma:** The soul is indestructible, so there is no cause for grief.
+1. **From the standpoint of Atma:** The soul is indestructible, so there is no cause for grief.
 
 
-2. 
-**From the standpoint of Anatma:** The physical body is temporary and death is inevitable.
+2. **From the standpoint of Anatma:** The physical body is temporary and death is inevitable.
 
 
-3. 
-**From the standpoint of Swadharma:** It is his duty as a Kshatriya to fight.
+3. **From the standpoint of Swadharma:** It is his duty as a Kshatriya to fight.
 
 
-4. 
-**From the standpoint of Gain:** He will achieve fame or heaven.
+4. **From the standpoint of Gain:** He will achieve fame or heaven.
 
 
-5. 
-**From the standpoint of Loss:** Fleeing will result in dishonor and sin.
+5. **From the standpoint of Loss:** Fleeing will result in dishonor and sin.
 
 
 
