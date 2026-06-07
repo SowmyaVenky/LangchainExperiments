@@ -31,7 +31,7 @@ def query_after_getting_matched_documents(user_query, ollama_model_name="granite
 
     return result
 
-st.title("💬 Regious Documents Chatbot")
+st.title("💬 Gita/Tattvabodha/Atmabodha Chatbot")
 
 # Initialize chat history
 if "messages" not in st.session_state:
