@@ -9,27 +9,22 @@ import chromadb
 
 DB_DIR = "./chromadb"
 chroma_client = chromadb.PersistentClient(path=DB_DIR)
-collections = chroma_client.list_collections()
-print("Collections in ChromaDB:", collections)
+collection = chroma_client.get_or_create_collection(name="religious_collection")
 
-vector_store = Chroma(collection_name="religious_collection", client=chroma_client)
+def query_after_getting_matched_documents(user_query):
+    results = collection.query(
+            query_texts=[user_query], n_results=3
+    )
 
-def query_after_getting_matched_documents(user_query, ollama_model_name="granite4.1:3b"):
-    # Create a retriever from the vector store getting top 10 similar documents
-    retriever = vector_store.as_retriever(collection_name="religious_collection", search_type="similarity", search_kwargs={"k": 10})
+    print(len(results['ids']))
+    print(results['ids'])
+    matches = results["documents"][0]
+    results_text = ""
+    if(len(matches) > 0):
+        for i in range(1,len(matches),1):
+            results_text += matches[i] + "\n"
 
-    llm = ChatOllama(model=ollama_model_name, base_url=None)
-    # ConversationalRetrievalChain wraps the LLM + retriever
-    chain = ConversationalRetrievalChain.from_llm(llm=llm, retriever=retriever, return_source_documents=True)
-
-    result = chain.invoke({"question": user_query, "chat_history":[]})
-    print(result["answer"])
-    matching_docs = result["source_documents"]
-    print("Matching document IDs:")
-    for doc in matching_docs:
-        print(doc.id)
-
-    return result
+    return {"answer": results_text, "source_documents": []}
 
 st.title("💬 Gita Chatbot")
 
